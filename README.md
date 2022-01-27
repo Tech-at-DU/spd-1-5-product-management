@@ -1,5 +1,3 @@
-# spd-1-5-product-management
-
 # SPD 1.5 Product Management (non-required course)
 
 ## Course Description
