@@ -1,19 +1,16 @@
 # spd-1-5-product-management
 
-# SPD 1.3 Team Software Project
+# SPD 1.5 Product Management (non-required course)
 
 ## Course Description
 
-This course focuses on the foundational skills of successful engineering teams. Students work in teams of four to conduct weekly sprints and retrospectives. Topics include: SCRUM planning, meeting management, delegation, conflict resolution, role ownership, advanced Git & GitHub, Unix Utilities, performance reviews, basics of organizational psychology and team development. Students utilize all the skills they've developed in SPD thus far to ship a sophisticated multi-feature software product that solves a real world problem.
+Product managers are like mini CEOs. They set the plan and guide teammates, and manage changes, stakeholders and risks. The job of a PM is a fascinating challenge: corralling all divisions of the company to make products of unique value. PMs have the added challenge of not being “the boss,” while still having a lot of power, influence, and responsibility.
+
+In this class, students will use case studies, projects, and interviewing to learn key PM skills. Throughout the SPD program, you have already learned many of the skills a PM needs. This course focuses on the more business-side of product management such as, monetization, market research, prioritization, and more.
 
 ## Why you should learn this
 
-Think Big. After winter break, core curriculum focuses on a big group project with teams of 4-5 engineers. You'll specialize in a particular role (mobile, front end, back end, devices, etc) and execute an ambitious project to impact the world. Previous projects include:
-  - A website, designed in partnership with the White House, to educate and connect underserved communities to the Internet.
-  - An online marketplace to find and purchase IOT home appliances.
-  - A "smart curriculum" that creates tests off of student work.
 
-Your team will dive deep into the nuance of an industry, talk with experts in the field, and create something meaningful. We'll cover organizational psychology research on what makes teams thrive. You'll get hands on experience navigating team dynamics and troubleshooting common communication challenges. SPD 1.3 culminates with Demo presentations of shipped product. It's a stellar opportunity to showcase your work to the larger Make School network and share what you've learned.
 
 ## Course Specifics
 
@@ -25,18 +22,18 @@ Your team will dive deep into the nuance of an industry, talk with experts in th
 
 Students by the end of the course will be able to ...
 
-1. Practice with the [SCRUM](https://www.scrum.org/) framework, including Sprint Planning and Sprint Retrospectives
-1. Apply advanced Git, Github, and Unix Utilities to streamline their coding effectiveness
-1. Practice estimating the difficulty of tasks or user stories
-1. Use skills that will help navigate the dynamics of professional teams including conflict resolution, delegation, and prioritization
-1. Deliver a professional investor pitch for a product, articulating evidence of product-market fit, team competency, and product fidelity
+1. Project and manage budget and finances of a product using spreadsheets
+1. Analyze the market potential for new product opportunities
+1. Use analytics to address various product performance issues faced by product managers
+1. Learn how to use influence, instead of authority, to drive success of a team, e.g. set goals using KPIs and OKRs
+1. Develop a “product sense” to be able to ace product manager technical interview questions
 
 
 
 
 ## Schedule
 
-View the most up to date data in the [tracker](https://docs.google.com/spreadsheets/d/14_e8X4dN6oiz0LCynOnUjhqscW5ZsmIPtq9mbOB5pco/edit#gid=786022362)
+View the most up to date data in the [tracker](https://docs.google.com/spreadsheets/d/1ebDnMYUwioNmp9JUvW4MCazN5eyk5PFWuJMInEk-c8Y/edit?usp=sharing)
 
 <!-- tabs:end -->
 
@@ -51,32 +48,21 @@ View the most up to date data in the [tracker](https://docs.google.com/spreadshe
 [Investor Pitchdecks]: https://docs.google.com/presentation/d/1BYsmchzoaEG3WQXHHqlVgRPYsXuRqg3s-c-e1QbPKdk/edit#slide=id.g4ef26aab2e_0_0
 [6 Thinking Hats]: https://www.mindtools.com/pages/article/newTED_07.htm
 
-## Assignment Schedule
-
-All assignments are graded on completion. Individual requirements for each are listed in the description of the assignment. 
-
-|         Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
-|:------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Complete Assignment Instructions]         |               |              | Gradescope
-| [Sprint Meeting Notes & Reflection 1]      |    Gradescope     |  Gradescope      | Gradescope  |
-| [Sprint Meeting Notes & Reflection 2]      |    Gradescope      |    Gradescope    | Gradescope  |
-| [Sprint Meeting Notes & Reflection 3]      |    Gradescope     |    Gradescope    | Gradescope  |
-| [Sprint Meeting Notes & Reflection 4]      |   Gradescope      |    Gradescope     | Gradescope  |
-| [Final Project]                            |   Gradescope      |   Gradescope      | Gradescope  |
-
-[Complete Assignment Instructions]: https://docs.google.com/document/d/1YDo1MzGOKieYouBfuKFHnEN0cn-uIYnLnZX0pUUVdz4/edit
-[Sprint Meeting Notes & Reflection 1]: https://www.gradescope.com/courses/223474/assignments
-[Sprint Meeting Notes & Reflection 2]: https://www.gradescope.com/courses/223474/assignments
-[Sprint Meeting Notes & Reflection 3]: https://www.gradescope.com/courses/223474/assignments
-[Sprint Meeting Notes & Reflection 4]: https://www.gradescope.com/courses/223474/assignments
-[Final Project]: https://docs.google.com/document/d/1YDo1MzGOKieYouBfuKFHnEN0cn-uIYnLnZX0pUUVdz4/edit
+## Assignments
 
 ## Projects
 
-  - [Team Project Assignment Document (Phases 0-5)](https://docs.google.com/document/d/1YDo1MzGOKieYouBfuKFHnEN0cn-uIYnLnZX0pUUVdz4/edit)
-  - [Pitch Rubric](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/blob/master/Assignments/03-pitch-deck.md)
-  - 4 Team Pitch Agenda notes submission (assignments in Gradescope)
-  - 4 Solo Reflection submission (assignments in Gradescope)
+Project details are on Gradescope.
+
+Assignments:
+- **Google Sheets Finance Tutorial** - this tutorial will teach you the coding language of non-programmers ... spreadsheets! 
+- **Google Sheets Unit Economics Tutorial** - This tutorial will teach you the central financial calculation that drives business success Unit Economics. Unit economics is the calculation on how much profit you get per cost per unit of product sold. You'll have to also distribute costs 
+- **Market estimation**: estimate the potential market size for a product idea and your estimate of how much share you might be able to capture
+- **Budgeting**: estimate the total costs for your product team to opperate including line items of people cost, rent, projections, benefits, employees, marketing, advertising, cost of aquisition
+- **BLOG POST or PRD Mock Interview Question**: Market Analysis for a new product or existing that outlines 1) pricing choice 2) economics of expected gain and loss 3) pitch on how it fills the niche 4) estimation of size of market potential 5) prioritization of this compared to other opportunities. You may also decide to find an actual interview question that has this kind of analysis.
+- **Two case study responses to prompts**
+- **12 PM interview questions** from Cracking the PM interview book. A few recorded interviews will also be turned in.
+
 
 ## Resources
 
@@ -89,20 +75,14 @@ All assignments are graded on completion. Individual requirements for each are l
 ## Evaluation
 To pass this course you must meet the following requirements:
 
-- 35% of final grade is your team's final product. The grade is determined by completion of various phases outlined in the[Team Project Assignment Document (Phases 0-5)](https://docs.google.com/document/d/1YDo1MzGOKieYouBfuKFHnEN0cn-uIYnLnZX0pUUVdz4/edit). You earn the percentage of the phase that has been completed.
-- 15% of the final grade is from your team's Product Pitch. Pitches are evaluated using the [Pitch Rubric](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/blob/master/Assignments/03-pitch-deck.md)
-- 25% of the final grade is based on completion of the team Sprint & Retrospective Agenda submissions. They were be graded based on a percentage of the steps documented. These assignments and due dates can be found on Gradescope.
-- 25% of the final grade will be based on personal reflections to be completed at the end of every Sprint. They will be graded for completion based on the rubrics in gradescope. These assignments and due dates can be found on Gradescope.
+- 10% of the final grade is based on the two case study responses.
+- 20% of the final grade is based the three spreadsheet tutorials 
+- 20% of the final grade is based on the the final blog post
+- 50% of the final grade will be based on completion of the practice interview questions.
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
-## Information Resources
-
-Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
-
-- [make.sc/library](http://make.sc/library)
-
-## Make School Course Policies
+## Course Policies
 
 - [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
 - [Grading System](https://make.sc/grading-system) - How grading is done at Make School
