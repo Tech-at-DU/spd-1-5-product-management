@@ -6,10 +6,6 @@ Product managers are like mini CEOs. They set the plan and guide teammates, and 
 
 In this class, students will use case studies, projects, and interviewing to learn key PM skills. Throughout the SPD program, you have already learned many of the skills a PM needs. This course focuses on the more business-side of product management such as, monetization, market research, prioritization, and more.
 
-## Why you should learn this
-
-
-
 ## Course Specifics
 
 **Course Delivery**: hybrid | 7 weeks | 14 sessions
